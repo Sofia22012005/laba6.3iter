@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+D:\Student\lb6.3_rek\lb6.3_rek\Source.cpp(101): warning C4715: min2: значение возвращается не при всех путях выполнения
+D:\Student\lb6.3_rek\lb6.3_rek\Source.cpp(88): warning C4715: min1<int>: значение возвращается не при всех путях выполнения
+D:\Student\lb6.3_rek\lb6.3_rek\Source.cpp(55): warning C4715: create2<int>: значение возвращается не при всех путях выполнения
+D:\Student\lb6.3_rek\lb6.3_rek\Source.cpp(74): warning C4715: print2<int>: значение возвращается не при всех путях выполнения
+     Создается библиотека D:\Student\lb6.3_rek\x64\Debug\UnitTest1.lib и объект D:\Student\lb6.3_rek\x64\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> D:\Student\lb6.3_rek\x64\Debug\UnitTest1.dll
